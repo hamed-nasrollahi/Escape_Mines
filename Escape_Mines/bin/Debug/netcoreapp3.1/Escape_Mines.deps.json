@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Escape_Mines/1.0.0": {
+        "runtime": {
+          "Escape_Mines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escape_Mines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
